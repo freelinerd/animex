@@ -2,6 +2,9 @@
 
 **Freeline Animex** es una aplicación móvil desarrollada en Flutter diseñada para la visualización de contenido multimedia de forma eficiente, limpia y sin interrupciones publicitarias. El proyecto se centra en la ingeniería de extracción de datos y la reproducción nativa de video.
 
+<img width="717" height="512" alt="Diseño sin título (7)" src="https://github.com/user-attachments/assets/3111df33-bd93-4c91-9f95-1548aafceefa" />
+
+
 ## 🛠️ Stack Tecnológico
 * **Framework:** Flutter (Dart)
 * **Gestión de Estado:** Provider
